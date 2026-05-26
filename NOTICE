@@ -1,0 +1,5 @@
+Solace Kernel Public
+Copyright 2026 Moral Clarity AI / Neurovia Dynamics, LLC
+
+This public repository contains a sanitized public-facing surface for Solace Kernel.
+It excludes private runtime infrastructure, keys, ledgers, telemetry, model orchestration, and production execution services.
